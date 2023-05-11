@@ -1,0 +1,120 @@
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\ZgloszeniaAwarii.exe
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\ZgloszeniaAwarii.deps.json
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\ZgloszeniaAwarii.runtimeconfig.json
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\ZgloszeniaAwarii.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\ZgloszeniaAwarii.pdb
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\ZgloszeniaAwarii.csproj.AssemblyReference.cache
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\ZgloszeniaAwarii_MarkupCompile.cache
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\ZgloszeniaAwarii.g.resources
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\ZgloszeniaAwarii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\ZgloszeniaAwarii.AssemblyInfoInputs.cache
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\ZgloszeniaAwarii.AssemblyInfo.cs
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\ZgloszeniaAwarii.csproj.CoreCompileInputs.cache
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\ZgloszeniaAwarii.csproj.CopyComplete
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\ZgloszeniaAwarii.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\refint\ZgloszeniaAwarii.dll
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\ZgloszeniaAwarii.pdb
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\ZgloszeniaAwarii.genruntimeconfig.cache
+C:\Users\Skrzynia\Desktop\prace do knopa\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\ref\ZgloszeniaAwarii.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\ZgloszeniaAwarii.exe
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\ZgloszeniaAwarii.deps.json
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\ZgloszeniaAwarii.runtimeconfig.json
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\ZgloszeniaAwarii.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\ZgloszeniaAwarii.pdb
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\Azure.Core.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\Azure.Identity.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\Google.Protobuf.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\MySql.Data.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\System.Memory.Data.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\System.Text.Json.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\ZgloszeniaAwarii.csproj.AssemblyReference.cache
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\MainWindow.baml
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\MainWindow.g.cs
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\App.g.cs
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\ZgloszeniaAwarii_MarkupCompile.cache
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\ZgloszeniaAwarii.g.resources
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\ZgloszeniaAwarii.GeneratedMSBuildEditorConfig.editorconfig
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\ZgloszeniaAwarii.AssemblyInfoInputs.cache
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\ZgloszeniaAwarii.AssemblyInfo.cs
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\ZgloszeniaAwarii.csproj.CoreCompileInputs.cache
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\ZgloszeniaAwarii.csproj.CopyComplete
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\ZgloszeniaAwarii.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\refint\ZgloszeniaAwarii.dll
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\ZgloszeniaAwarii.pdb
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\ZgloszeniaAwarii.genruntimeconfig.cache
+G:\lekcja 11.05\zgloszenia_awarii-main\ZgloszeniaAwarii\ZgloszeniaAwarii\obj\Debug\net6.0-windows\ref\ZgloszeniaAwarii.dll
